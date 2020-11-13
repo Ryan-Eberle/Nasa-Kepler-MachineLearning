@@ -14,9 +14,10 @@ The Random Forests model was the only model to present an accuracy of over 80%. 
 ## Model Rank
 
 ### Random Forests
-
+<img width="520" alt="RandomForest_result" src="https://user-images.githubusercontent.com/65464107/99011941-7a7f5d00-250a-11eb-812a-1d0d0ead4bee.png">
 
 ### Logistical Regression
-
+<img width="525" alt="Logistic_reg_result" src="https://user-images.githubusercontent.com/65464107/99011963-879c4c00-250a-11eb-827b-ccbfb8a41d3c.png">
 
 ### SVM
+<img width="561" alt="SVM_result" src="https://user-images.githubusercontent.com/65464107/99011973-8bc86980-250a-11eb-9130-c2b69aa08f7b.png">
